@@ -3,7 +3,7 @@
 ![My face](https://github.com/tenleygallagher-414/tenleygallagher-414.github.io/blob/main/img/Screenshot%202026-05-31%20155200.jpg)
 
 <img 
-  src="(https://github.com/tenleygallagher-414/tenleygallagher-414.github.io/blob/main/img/Screenshot%202026-05-31%20155200.jpg" 
+  src="https://github.com/tenleygallagher-414/tenleygallagher-414.github.io/blob/main/img/Screenshot%202026-05-31%20155200.jpg" 
   alt="My face" 
   width="25%">
 
