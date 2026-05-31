@@ -1,6 +1,6 @@
 # Tenley's Earth Data Science Porfolio
 
-![My face](/assets/images/san-juan-mountains.jpg)
+![My face](https://github.com/tenleygallagher-414/tenleygallagher-414.github.io/blob/main/img/IMG_9455.heic)
 
 <p> My name is Tenley Gallagher and I am a rising Junior at Agnes Scott College majoring in Biology and Spanish, minoring in Environmental Science. My current career interests are Urban Conservation and Ecology. As the majority of my experience in the field so far has been primarily hands-on work with local, non-profit organizations, I would appreciate learning more about research and data collection. I am also unfamiliar with Python and GIS, which are both extremely vital to environmental careers. 
 </p>
