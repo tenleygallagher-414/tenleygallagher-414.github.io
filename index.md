@@ -1,4 +1,4 @@
-# Tenley's Earth Data Science Porfolio
+# Tenley's Earth Data Science Portfolio
 
 
 <img 
